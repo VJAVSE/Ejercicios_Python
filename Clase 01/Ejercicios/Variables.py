@@ -1,0 +1,21 @@
+#VARIABLES
+#TIPOS DE VARIABLES:
+#ENTEROS: Integer (int)
+#CUANDO QUIERO QUE LA PERSONA INGRESE EL NÚMERO
+#INPUT ES PARA INGRESAR DATOS DECLARANDO EL TIPO, POR EJEMPLO INT
+num1=4
+num4=10.7
+#STRING:
+texto="Hola Mundo"
+#FLOAT, EJ: 1.65 CM
+#BOOLEAN, EJ: VERDADERO O FALSO
+boolean=False
+print(boolean)
+#CHAR HACE REFERENCIA QUE SE PUEDE USAR UNA LETRA, char='d', No se usa en Python
+num2=int(input("INGRESA EL NÚMERO ENTERO: "))
+num3=float(input("INGRESA EL NÚMERO DECIMAL: "))
+texto1= input("INGRESA EL TEXTO: ")
+num4=10.7
+print(num2)
+print(num3)
+print(texto1)
