@@ -9,7 +9,7 @@
 asignaturas= ["Matematicas","Fisica","Quimica","Historia","Lengua"]
 notas=[]
 for asignatura in asignaturas:
-    nota=input("¿Qué nota has sacado en: "+asignatura+"? ")
+    nota=input("¿Qué nota has sacado en: "+asignatura+"?  ")
     notas.append(nota)
 
 for i in range(len(asignaturas)):
